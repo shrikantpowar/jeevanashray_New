@@ -1,0 +1,6 @@
+{
+  "name": "Jeevanashray Foundation",
+  "description": "Official website for Jeevanashray Foundation (Est. 2013, Nallasopara, Maharashtra). Community initiatives in child welfare, women's empowerment, education, and rural livelihoods.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
